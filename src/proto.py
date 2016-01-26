@@ -20,7 +20,7 @@ for i in range(1,5):    #there is always four colors
     tempKeys = list(keys)
     
     for k in sorted(keys):
-        if k in tempKeys:
+        if k in sorted(tempKeys):
             if data[k]['col'] != 0:
                 tempKeys.remove(k)
                 
