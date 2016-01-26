@@ -37,6 +37,6 @@ pixels = img.load() #pixel map
 
 for k,v in data.iteritems():
     for x,y in v['pix']:
-        pixels[y-1,x-1] = v['col']
+        pixels[x,y] = v['col']
 
 img.show();
