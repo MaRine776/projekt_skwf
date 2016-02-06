@@ -1,0 +1,22 @@
+{
+    "AA": ["AE","AD"], 
+    "AD": ["AG","AJ","AE"], 
+    "AE": ["AJ","AI"], 
+    "AF": ["AG","AL","AH"], 
+    "AG": ["AL","AJ"], 
+    "AH": ["AL","AR","AQ"], 
+    "AI": ["AJ","AN","AM"], 
+    "AJ": ["AN","AS","AR","AL"], 
+    "AL": ["AR"], 
+    "AM": ["AO","AN","AT"], 
+    "AN": ["AS","AT"], 
+    "AO": [], 
+    "AQ": ["AR","AU"], 
+    "AR": ["AS","AU"], 
+    "AS": ["AT","AU","AW"], 
+    "AT": ["AV","AW"], 
+    "AU": ["AW"], 
+    "AV": ["AX","AW"], 
+    "AW": ["AX"], 
+    "AX": []
+}
