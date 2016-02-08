@@ -30,6 +30,7 @@ D=dict()
 #iterate over every file in directory
 for k in work:
     #open current file
+    print(k)
     img = Image.open(directory + '/' + k)
     #initialize number of pixls (to calculate middle)
     num = 0

@@ -14,10 +14,7 @@ read:
 	$(RUNNER) $(DIR)$(TARGET1)
 
 clean:
-	rm $(DIR)mapa.json
+	rm mapa.json
 	@echo " Cleaning..."; 
 
-
 .PHONY: clean
-.PHONY: parse
-.PHONY: run
